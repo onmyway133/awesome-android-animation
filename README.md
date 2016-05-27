@@ -11,6 +11,7 @@ A collection of Android animation repos
 - [Button](Animation/button.md)
 - [Slider](Animation/slider.md)
 - [Refresh](Animation/refresh.md)
+- [TextField](Animation/textfield.md)
 
 Licence
 --
