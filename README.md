@@ -9,6 +9,7 @@ A collection of Android animation repos
 - [Transition](Animation/transition.md)
 - [Pager](Animation/pager.md)
 - [Button](Animation/button.md)
+- [Slider](Animation/slider.md)
 
 Licence
 --
