@@ -19,3 +19,15 @@ View
 > A little animation framework which could help you to show message in a nice looking way
 
 ![](https://github.com/elevenetc/TextSurface/raw/master/docs/demo.gif)
+
+[trianglify](https://github.com/manolovn/trianglify)
+--
+> Android view inspired by http://qrohlf.com/trianglify/
+
+![](https://github.com/manolovn/trianglify/raw/master/art/001.png)
+
+[ExplosionField](https://github.com/tyrantgit/ExplosionField)
+--
+> explosive dust effect for views
+
+![](https://github.com/tyrantgit/ExplosionField/raw/master/explosionfield.gif)
