@@ -8,6 +8,7 @@ A collection of Android animation repos
 - [Posts](Animation/posts.md)
 - [Framework](Animation/framework.md)
 - [UI](Animation/ui.md)
+- [View](Animation/view.md)
 - [Transition](Animation/transition.md)
 - [Pager/Tab](Animation/pager.md)
 - [Button](Animation/button.md)
