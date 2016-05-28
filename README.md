@@ -2,7 +2,8 @@
 A collection of Android animation repos
 
 ![](Screenshots/Banner.png)
-(screenshot taken from http://android-foundry.com/wallpaper-ice-cream-month/)
+<label style="display: block; text-align:right;font-size:10px">screenshot taken from http://android-foundry.com/wallpaper-ice-cream-month/</label>
+
 
 - [Posts](Animation/posts.md)
 - [Framework](Animation/framework.md)
@@ -12,6 +13,8 @@ A collection of Android animation repos
 - [Slider](Animation/slider.md)
 - [Refresh](Animation/refresh.md)
 - [TextField](Animation/textfield.md)
+- [Picker](Animation/picker.md)
+- [Calendar](Animation/calendar.md)
 
 Licence
 --
