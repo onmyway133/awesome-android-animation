@@ -22,6 +22,7 @@ A collection of Android animation repos
 - [Drawer](Animation/drawer.md)
 - [Tag](Animation/tag.md)
 - [Loader/Progress](Animation/loader.md)
+- [Page Indicator](Animation/indicator.md)
 
 Licence
 --
