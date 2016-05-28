@@ -2,7 +2,7 @@
 A collection of Android animation repos
 
 ![](Screenshots/Banner.png)
-<h5 style="display: block; text-align:right;font-size:10px">background image taken from http://android-foundry.com/wallpaper-ice-cream-month/</h5>
+<h6 style="display: block; text-align:right;font-size:10px">background image taken from http://android-foundry.com/wallpaper-ice-cream-month/</h6>
 
 
 - [Posts](Animation/posts.md)
