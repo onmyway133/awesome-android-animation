@@ -9,7 +9,7 @@ A collection of Android animation repos
 - [Framework](Animation/framework.md)
 - [UI](Animation/ui.md)
 - [Transition](Animation/transition.md)
-- [Pager](Animation/pager.md)
+- [Pager/Tab](Animation/pager.md)
 - [Button](Animation/button.md)
 - [Slider](Animation/slider.md)
 - [Refresh](Animation/refresh.md)
@@ -18,6 +18,7 @@ A collection of Android animation repos
 - [Calendar](Animation/calendar.md)
 - [Camera/Photo Browser](camera.md)
 - [Chart](Animation/chart.md)
+- [Drawer](Animation/drawer.md)
 
 Licence
 --
