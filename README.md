@@ -17,6 +17,7 @@ A collection of Android animation repos
 - [Picker](Animation/picker.md)
 - [Calendar](Animation/calendar.md)
 - [Camera/Photo Browser](camera.md)
+- [Chart](Animation/chart.md)
 
 Licence
 --
