@@ -16,6 +16,7 @@ A collection of Android animation repos
 - [TextField](Animation/textfield.md)
 - [Picker](Animation/picker.md)
 - [Calendar](Animation/calendar.md)
+- [Camera/Photo Browser](camera.md)
 
 Licence
 --
