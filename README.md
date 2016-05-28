@@ -20,7 +20,7 @@ A collection of Android animation repos
 - [Chart](Animation/chart.md)
 - [Drawer](Animation/drawer.md)
 - [Tag](Animation/tag.md)
-- [Loader](Animation/loader.md)
+- [Loader/Progress](Animation/loader.md)
 
 Licence
 --
