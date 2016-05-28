@@ -31,3 +31,9 @@ View
 > explosive dust effect for views
 
 ![](https://github.com/tyrantgit/ExplosionField/raw/master/explosionfield.gif)
+
+[android-pathview](https://github.com/geftimov/android-pathview)
+--
+> Android view with both path from constructed path or from svg.
+
+![](https://github.com/geftimov/android-pathview/raw/master/art/fill-after-resize-new.gif)
