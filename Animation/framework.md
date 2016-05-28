@@ -1,6 +1,12 @@
 Framework
 ==
 
+[rebound](https://github.com/facebook/rebound)
+--
+> A Java library that models spring dynamics and adds real world physics to your app
+
+![]
+
 [EasyAndroidAnimations](https://github.com/2359media/EasyAndroidAnimations)
 --
 > Easy Android Animations is an animation library that aims to make android animations easier
