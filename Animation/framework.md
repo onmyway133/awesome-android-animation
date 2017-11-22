@@ -25,3 +25,8 @@ Framework
 > Spruce Animation Library
 
 ![](https://github.com/willowtreeapps/spruce-android/raw/master/imgs/recycler-example.gif)
+
+## [Grav](https://github.com/glomadrian/Grav)
+> Configurable animations based on points
+
+![](https://github.com/glomadrian/Grav/raw/master/art/grav.gif)
