@@ -18,3 +18,8 @@ Tag
 > This is a library designed for highlighting hashtags ("#example") and catching click on them.
 
 ![](https://cloud.githubusercontent.com/assets/2686355/11998408/e6aa1f62-aaa6-11e5-911a-c598b6853862.gif)
+
+## [MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput)
+> Implementation of Material Design Chips component for Android
+
+![](https://github.com/pchmn/MaterialChipsInput/raw/master/docs/demo2.gif)
