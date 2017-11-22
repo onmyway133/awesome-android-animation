@@ -42,3 +42,8 @@ View
 > A custom view component that mimics the new Material Design Bottom Navigation pattern.
 
 ![](https://raw.githubusercontent.com/roughike/BottomBar/master/graphics/shifting-demo.gif)
+
+## [PasscodeView](https://github.com/hanks-zyh/PasscodeView)
+> Material Design PasscodeView for Android.
+
+![](https://github.com/hanks-zyh/PasscodeView/raw/master/screenshot/demo.gif)
