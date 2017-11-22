@@ -18,4 +18,7 @@ Drawer
 --
 > Navigation Drawer Activity with material design style and simplified methods
 
-![]()
+## [SlidingRootNav](https://github.com/yarolegovich/SlidingRootNav)
+> DrawerLayout-like ViewGroup, where a "drawer" is hidden under the content view, which can be shifted to make the drawer visible.
+
+![](https://github.com/yarolegovich/SlidingRootNav/raw/master/art/sample.gif)
