@@ -16,7 +16,7 @@ A collection of Android animation repos
 - [Button](Animation/button.md)
 - [Slider](Animation/slider.md)
 - [Refresh](Animation/refresh.md)
-- [TextField](Animation/textfield.md)
+- [TextField/TextView](Animation/textfield.md)
 - [Picker](Animation/picker.md)
 - [Calendar](Animation/calendar.md)
 - [Camera/Photo Browser/Image Picker](Animation/camera.md)
