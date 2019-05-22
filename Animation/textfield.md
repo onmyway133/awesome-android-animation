@@ -24,3 +24,8 @@ TextField
 > Android Floating Label
 
 ![](https://github.com/hardik-trivedi/FloatingLabel/raw/master/form-animation-_gif_-1.gif)
+
+## [ParticleTextView](https://github.com/Yasic/ParticleTextView)
+> Particle effect in TextView
+
+![](https://github.com/Yasic/ParticleTextView/raw/master/Screenshot/Total.gif?raw=true)
